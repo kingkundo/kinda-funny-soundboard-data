@@ -12,8 +12,8 @@ Just because I don't have time to do the work necessary to maintain this project
 ## How to add content
 * Pull the repo
 * Copy the content you want to add from your computer to the appropriate folders (and make sure they follow the naming standard of the folder)
-* Open the sqllite database in your favourite database manager. I suggest using [https://sqlitebrowser.org/](DB Browser for SQLite)
-Add the content that you want to add to the appropriately named tables. Make sure you get the clip titles and image names correct, or your changes won't work!
+* Open the sqllite database in your favourite database manager. I suggest using https://sqlitebrowser.org/
+* Add the content that you want to add to the appropriately named tables. Make sure you get the clip titles and image names correct, or your changes won't work!
 
 ## Testing your changes
 To be completed...
