@@ -58,6 +58,8 @@ I want to be able to step away from this project in the future, leaving EVERYTHI
 
 The next stages of development will look like this:
 
+* Find a way to get you guys to be able to easily test your changes without having to leave that to me. I'm working on it!
+
 * See how the community responds to these changes, and how willing people are to contribute.
 
 * Continue working with the community, trying to find members willing to take this project over fully who I trust to ensure quality remains high.
