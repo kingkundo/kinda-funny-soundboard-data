@@ -1,0 +1,14 @@
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.deps.json
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.runtimeconfig.json
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.runtimeconfig.dev.json
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.dll
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.pdb
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\obj\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.csproj.CoreCompileInputs.cache
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\obj\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.AssemblyInfoInputs.cache
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\obj\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.AssemblyInfo.cs
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\obj\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.dll
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\obj\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.pdb
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\libhostpolicy.dylib
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\libhostfxr.dylib
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\bin\Release\netcoreapp2.1\osx-x64\KFSB Data Builder
+D:\Projects\kinda-funny-soundboard-data\build\src\KFSB Data Builder\obj\Release\netcoreapp2.1\osx-x64\KFSB Data Builder.csprojAssemblyReference.cache

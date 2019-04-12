@@ -1,0 +1,11 @@
+D:\Projects\kinda-funny-soundboard-data\tools\netcoreapp2.1\KFSBDataBuildAndValidate.deps.json
+D:\Projects\kinda-funny-soundboard-data\tools\netcoreapp2.1\KFSBDataBuildAndValidate.runtimeconfig.json
+D:\Projects\kinda-funny-soundboard-data\tools\netcoreapp2.1\KFSBDataBuildAndValidate.runtimeconfig.dev.json
+D:\Projects\kinda-funny-soundboard-data\tools\netcoreapp2.1\KFSBDataBuildAndValidate.dll
+D:\Projects\kinda-funny-soundboard-data\tools\netcoreapp2.1\KFSBDataBuildAndValidate.pdb
+D:\Projects\kinda-funny-soundboard-data\tools\src\KFSB Data Builder\obj\Release\netcoreapp2.1\KFSBDataBuildAndValidate.csproj.CoreCompileInputs.cache
+D:\Projects\kinda-funny-soundboard-data\tools\src\KFSB Data Builder\obj\Release\netcoreapp2.1\KFSBDataBuildAndValidate.AssemblyInfoInputs.cache
+D:\Projects\kinda-funny-soundboard-data\tools\src\KFSB Data Builder\obj\Release\netcoreapp2.1\KFSBDataBuildAndValidate.AssemblyInfo.cs
+D:\Projects\kinda-funny-soundboard-data\tools\src\KFSB Data Builder\obj\Release\netcoreapp2.1\KFSBDataBuildAndValidate.dll
+D:\Projects\kinda-funny-soundboard-data\tools\src\KFSB Data Builder\obj\Release\netcoreapp2.1\KFSBDataBuildAndValidate.pdb
+D:\Projects\kinda-funny-soundboard-data\tools\src\KFSB Data Builder\obj\Release\netcoreapp2.1\KFSBDataBuildAndValidate.csprojAssemblyReference.cache

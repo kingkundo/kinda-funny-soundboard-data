@@ -1,0 +1,26 @@
+[
+    {
+        "orderInMenu": 100,
+        "title": "Greg"
+    },
+    {
+        "orderInMenu": 200,
+        "title": "Colin"
+    },
+    {
+        "orderInMenu": 300,
+        "title": "Nick"
+    },
+    {
+        "orderInMenu": 400,
+        "title": "Tim"
+    },
+    {
+        "orderInMenu": 500,
+        "title": "Kevin"
+    },
+    {
+        "orderInMenu": 600,
+        "title": "Misc"
+    }
+]

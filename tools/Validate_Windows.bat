@@ -1,0 +1,1 @@
+dotnet "netcoreapp2.1/KFSBDataBuildAndValidate.dll"
