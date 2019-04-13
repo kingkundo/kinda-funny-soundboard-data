@@ -10,6 +10,8 @@ I created this app years ago but life has taken hold and I no longer have time t
 
 There are new members of KF since the last update, so please consider adding more clips and 'characters' to the app 😊. Soon I will create a credits section, allowing you to get credit for your work. This hand over of the project to the community is a work in progress though and please bear with me while we get this off the ground.
 
+--------------------------------
+
 ## How to contribute
 
 It's simple. Fork this repo, add new content, and send a pull request. I will merge the changes and add your content to the app. Simple as that.
@@ -56,6 +58,8 @@ Tabs, or new members, are the easiest of all to add.
 
 Once you've finished adding your content, go to the 'tools' folder and run the validator to ensure that your content is formatted correctly. If your changes pass validation, make a pull request and I will add all your wonderful content to the app.
 
+--------------------------------
+
 ## The future of this community project
 
 I want to be able to step away from this project in the future, leaving EVERYTHING in the hands of you guys in the Kinda Funny community. This is the start of my work towards this goal.
@@ -68,9 +72,13 @@ The next stages of development will look like this:
 
 * Continue working with the community, trying to find members willing to take this project over fully who I trust to ensure quality remains high.
 
+--------------------------------
+
 ## Thanks
 
 Thanks for supporting this project over the years. I have spent hours cutting out clips from Kinda Funny's library of content to give back to you guys in the form of this app, and I hope that together we can make it even better.
+
+--------------------------------
 
 ## Final word
 
