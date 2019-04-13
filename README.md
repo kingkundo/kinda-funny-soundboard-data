@@ -1,5 +1,9 @@
 # Kinda Funny Soundboard app content
 
+Wondering what the Kinda Funny Soundboard app is? Check it out here: https://play.google.com/store/apps/details?id=com.comuf.tom189.kindafunnysoundboard
+
+--------------------------------
+
 Are you part of the KF community? Contribute audio clips and images to the Kinda Funny Soundboard app!
 
 I created this app years ago but life has taken hold and I no longer have time to maintain it. Instead of letting it just die, I've decided it's best to open it up to the community and allow you guys to contribute.
